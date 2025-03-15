@@ -1,6 +1,6 @@
 import datetime
 
-def gree():
+def greet():
   current_time = datetime.datetime.now()
   print(f"Hello from Jenkins at {current_time}!")
 
